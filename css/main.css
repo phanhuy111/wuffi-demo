@@ -264,7 +264,7 @@ input:focus {
   background-size: contain;
   background-repeat: no-repeat;
   width: 100%;
-  height: 80vh;
+  height: 60vh;
   z-index: 99;
 }
 
@@ -892,7 +892,7 @@ input:focus {
   background-image: url(https://cdn.animaapp.com/projects/64df22578bd173e193424f36/releases/661363fed3ad572583626494/img/div-lp-pom-block-11.png);
   background-position: 50% 50%;
   background-size: cover;
-  height: 868px;
+  height: 640px;
   width: 100%;
   display: flex;
   justify-content: center;
@@ -965,7 +965,7 @@ input:focus {
  }
 
  .wuffi-token {
-   width: 50vw;
+   width: 100%;
    height: 50vw;
  }
 
@@ -1030,7 +1030,7 @@ input:focus {
   }
 
   .wuffi-token {
-    width: 70vw;
+    width: 100%;
     height: 70vw;
   }
 
@@ -1092,7 +1092,7 @@ input:focus {
   }
 
   .wuffi-token {
-    height: 454px;
+    height: 30vh;
     width: 100%;
   }
 
