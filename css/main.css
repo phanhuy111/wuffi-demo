@@ -980,6 +980,7 @@ input:focus {
   }
 
   .tag-link {
+    display: flex;
     white-space: pre-wrap;
     white-space: pre-line;
     word-wrap: break-word;
